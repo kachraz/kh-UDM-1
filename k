@@ -1,10 +1,10 @@
 #!/bin/fish
-/workspaces/sn-URCC-1/sn/pnp.fish
-/workspaces/sn-URCC-1/sn/fixrs.fish
-/workspaces/sn-URCC-1/sn/st.sh
-/workspaces/sn-URCC-1/sn/aryt.fish
-/workspaces/sn-URCC-1/sn/tgpt.fish
-/workspaces/sn-URCC-1/sn/bun.fish
-/workspaces/sn-URCC-1/sn/tmuxx.fish
+/workspaces/kh-UDM-1/kc/pnp.fish
+/workspaces/kh-UDM-1/kc/fixrs.fish
+/workspaces/kh-UDM-1/kc/st.sh
+/workspaces/kh-UDM-1/kc/aryt.fish
+/workspaces/kh-UDM-1/kc/tgpt.fish
+/workspaces/kh-UDM-1/kc/bun.fish
+/workspaces/kh-UDM-1/kc/tmuxx.fish
 
 
